@@ -15,4 +15,11 @@ nb-configuration.xml
 *.war
 *.ear
 
+# Maven #
+
+.classpath
+.project
+.settings/
+target/
+
 src/main/java/db/*.txt
